@@ -1,5 +1,4 @@
-# COVID Vaccine Rumor Control
-**Concept note to develop a COVID vaccine side effect chatbot**
+# COVID Vaccine Rumor Control Concept Note
 *We are not throwin’ away our shot*
 <br>
 <br>
@@ -15,7 +14,7 @@ We will answer the 3 questions regarding vaccine side effects that patients find
 2. How long will it last?
 3. What should I do?
 <br>
-![message examples](/messageexamples.png)
+![](/messageexamples.png)
 <br>
 
 ## Scientific Approach: Identify and Evaluate Side Effect Rumors
