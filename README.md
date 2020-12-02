@@ -28,4 +28,4 @@ We will develop a chatbot to allowing users to describe their symptoms and learn
 
 ---
 
-<a href="https://vimeo.com/486023188" rel="some text">![Foo](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo3.png)</a>
+<a href="https://vimeo.com/486023188" rel="some text">![Foo](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
