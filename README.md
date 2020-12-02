@@ -1,9 +1,10 @@
-# COVID Vaccine Rumor Control
-**Concept note to develop a COVID vaccine side effect chatbot**<br>
+**Concept note to develop COVID vaccine side effect chatbot**<br>
+
+![COVID Vaccine Rumor Control](/docs/RumorControl_masks_chiron2.png)
 *We are not throwin’ away our shot*
 <br>
 <br>
-We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports with scientific credibility and serve vetted information.
+We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports and optimize vetted information for dissemination.
 <br>
 ## Mission: Vetting Rumors and Results
 To factcheck vaccine rumors/results in real-time to deliver side effect information to patients effectively.
@@ -39,3 +40,11 @@ The professional society for side effect surveillance has been [warning about th
 + [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
 
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
+
+# Read More
+Patient perspective video we compiled on from advocates discussing COVID vaccine adverse event reporting
+Misinformation and humor already spreading on COVID vaccines
+Scientific data sources
+Possible budget configurations
+[Software development](/softwaredev.md) process
+[Regulatory considerations](/regulatory.md)
