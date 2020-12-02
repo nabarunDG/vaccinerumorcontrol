@@ -18,14 +18,10 @@ We will answer the 3 questions regarding vaccine side effects that patients find
 ![message examples](docs/messageexamples.png)
 <br>
 
-## Scientific Approach: Identify and Evaluate Side Effect Rumors
+## Scientific Approach: Evaluate Side Effect Rumors & Results
 We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new rumor using data and medical knowledge, arriving at a determination. Based on the strength of the evidence, we will communicate our findings via video (TikTok, Vimeo, YouTube) and safety dispatched (blog posts) on the main site.
 
-## Tech Approach: Create a Chatbot for Side Effect Information
+## Tech Approach: SMS Chatbot
 We will develop a chatbot to allowing users to describe their symptoms and learn if could be vaccine related. Serious side effects will be referred for medical attention. Basic management information will be provided for minor side effects, including how long symptoms are expected to last. The chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Aggregate data on side effects can be used for situational awareness in pharmacovigilance and pharmacoepidemiology.
 
-[![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo3.png)](https://vimeo.com/486023188)
-
----
-
-<a href="https://vimeo.com/486023188" rel="some text">![Foo](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo3.png)</a>
+<a href="https://vimeo.com/486023188" rel="some text">![Foo](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
