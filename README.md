@@ -1,9 +1,9 @@
 # COVID Vaccine Rumor Control
-**Concept note to develop a COVID vaccine side effect chatbot**
+**Concept note to develop a COVID vaccine side effect chatbot**<br>
 *We are not throwin’ away our shot*
 <br>
 <br>
-We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports with scientific credibility and serve vetted information
+We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports with scientific credibility and serve vetted information.
 <br>
 ## Mission: Vetting Rumors and Results
 To factcheck vaccine rumors/results in real-time to deliver side effect information to patients effectively.
