@@ -8,11 +8,13 @@ We want COVID vaccines to succeed and get on with our lives. And, reports of “
 To factcheck vaccine rumors in real-time and deliver side effect information effectively.
 <br>
 
-# The Approach
-The focus is to answer the 3 questions most important to patients regarding vaccine side effects:
+## The Approach
+We will answer the 3 questions most important to patients regarding vaccine side effects:
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do?
+
+
 
 To accomplish this, the scientific focus is to assess causality of side effects in a meaningful way for patients.
 
