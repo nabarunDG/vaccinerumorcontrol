@@ -24,4 +24,4 @@ We will monitor social and news media, scientific literature, pharmaceutical ind
 ## Tech Approach: Create a Chatbot for Side Effect Information
 We will develop a chatbot to allowing users to describe their symptoms and learn if could be vaccine related. Serious side effects will be referred for medical attention. Basic management information will be provided for minor side effects, including how long symptoms are expected to last. The chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Aggregate data on side effects can be used for situational awareness in pharmacovigilance and pharmacoepidemiology.
 
-[<img src="https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo3.png">](https://vimeo.com/486023188)
+[![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo3.png)](https://vimeo.com/486023188)
