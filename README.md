@@ -42,9 +42,9 @@ The professional society for side effect surveillance has been [warning about th
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
 
 # Read More
-Patient perspective video we compiled on from advocates discussing COVID vaccine adverse event reporting
-Misinformation and humor already spreading on COVID vaccines
-Scientific data sources
-Possible budget configurations
-[Software development](/softwaredev.md) process
-[Regulatory considerations](/regulatory.md)
+Patient perspective video we compiled on from advocates discussing COVID vaccine adverse event reporting<br>
+Misinformation and humor already spreading on COVID vaccines<br>
+Scientific data sources<br>
+Possible budget configurations<br>
+[Software development](https://nabarundg.github.io/vaccinerumorcontrol/docs//softwaredev.md) process<br>
+[Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/docs//regulatory.md)<br>
