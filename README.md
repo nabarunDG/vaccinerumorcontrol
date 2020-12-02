@@ -15,7 +15,9 @@ We will answer the 3 questions regarding vaccine side effects that patients find
 2. How long will it last?
 3. What should I do?
 <br>
-![message examples](docs/messageexamples.png)
+
+![message examples](/docs/messageexamples2.png)
+
 <br>
 
 ## Scientific Approach: Evaluate Side Effect Rumors & Results
