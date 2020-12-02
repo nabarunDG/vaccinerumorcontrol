@@ -16,7 +16,7 @@ We will answer the 3 questions regarding vaccine side effects that patients find
 3. What should I do?
 <br>
 
-![message examples](/docs/messageexamples2.png)
+![message examples](/docs/messageexamples3.png)
 
 <br>
 
