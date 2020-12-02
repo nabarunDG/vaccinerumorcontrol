@@ -26,4 +26,16 @@ We will monitor social and news media, scientific literature, pharmaceutical ind
 ## Tech Approach: SMS Chatbot
 We will develop a chatbot to allowing users to describe their symptoms and learn if could be vaccine related. Serious side effects will be referred for medical attention. Basic management information will be provided for minor side effects, including how long symptoms are expected to last. The chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Aggregate data on side effects can be used for situational awareness in pharmacovigilance and pharmacoepidemiology.
 
-<a href="https://vimeo.com/486023188" rel="some text">![Foo](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
+<a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
+
+![patient vimeo](/docs/patientvideo2.png)
+
+## Coverage of Need
+A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need: Public needs to prep for vaccine side effects
+The professional society for side effect surveillance has been [warning about this concern](https://link.springer.com/article/10.1007/s40264-020-00941-4) for months. [Industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have been warning of the upcoming challenges. News media have also started recognizing the impending storm.
+
++ [BBC News](https://www.bbc.com/news/54893437), Nov 15, 2020: Vaccine rumours debunked: Microchips, 'altered DNA' and more
++ [NBC News](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485), Nov 12, 2020: Covid-19 vaccines may have potentially unpleasant side effects
++ [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
+
+<a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
