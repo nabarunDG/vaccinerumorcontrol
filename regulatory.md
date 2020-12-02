@@ -1,4 +1,4 @@
 ## Regulatory Considerations
 Similar to the American Association of Poison Control Centers [web app PoisonHelp.org](https://www.poisonhelp.org), the chatbot does not make a medical diagnosis, but rather serves as a triage tool aimed at reducing the burden of minor cases on healthcare systems, while providing vaccine-specific side effect information based on existing public data from US FDA, CDC, EMA, MHRA, Lareb, and other government agencies. The current medial software [guidance (Section V.B. on page 12)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications) suggests that this type of web app does not fall into high risk software that is the focus of regulation, but that regulatory discretion will be exercised.
-<br>
+<br><br><br>
 [Return to Concept Note](https://nabarundg.github.io/vaccinerumorcontrol/index)
