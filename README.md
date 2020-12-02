@@ -1,9 +1,9 @@
 # COVID Vaccine Rumor Control
-**Concept note to develop a COVID vaccine side effect chatbot**
+**Concept note to develop a COVID vaccine side effect chatbot**<br>
 *We are not throwin’ away our shot*
 <br>
 <br>
-We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports with scientific credibility and serve vetted information
+We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports with scientific credibility and serve vetted information.
 <br>
 ## Mission: Vetting Rumors and Results
 To factcheck vaccine rumors/results in real-time to deliver side effect information to patients effectively.
@@ -15,7 +15,7 @@ We will answer the 3 questions regarding vaccine side effects that patients find
 2. How long will it last?
 3. What should I do?
 <br>
-![message examples](/messageexamples.png)
+![message examples](docs/messageexamples.png)
 <br>
 
 ## Scientific Approach: Identify and Evaluate Side Effect Rumors
@@ -24,4 +24,4 @@ We will monitor social and news media, scientific literature, pharmaceutical ind
 ## Tech Approach: Create a Chatbot for Side Effect Information
 We will develop a chatbot to allowing users to describe their symptoms and learn if could be vaccine related. Serious side effects will be referred for medical attention. Basic management information will be provided for minor side effects, including how long symptoms are expected to last. The chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Aggregate data on side effects can be used for situational awareness in pharmacovigilance and pharmacoepidemiology.
 
-[<img src="/vimeo_demo.png">](https://vimeo.com/486023188)
+[<img src="/docs/vimeo_demo2.png">](https://vimeo.com/486023188)
