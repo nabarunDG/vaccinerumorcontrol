@@ -46,5 +46,5 @@ Patient perspective video we compiled on from advocates discussing COVID vaccine
 Misinformation and humor already spreading on COVID vaccines<br>
 Scientific data sources<br>
 Possible budget configurations<br>
-[Software development](https://nabarundg.github.io/vaccinerumorcontrol/docs//softwaredev.md) process<br>
-[Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/docs//regulatory.md)<br>
+[Software development](https://nabarundg.github.io/vaccinerumorcontrol/docs/softwaredev.md) process<br>
+[Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/docs/regulatory.md)<br>
