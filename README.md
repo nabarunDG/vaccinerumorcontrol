@@ -25,10 +25,6 @@ Mass vaccinations, common side effects, and ubiquitous mobile phones mean millio
 User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.
 <br><br>
 
-# Anticipated Costs
-We are soliciting funding to make this vision a reality. At a minimum over 6 months, we will need a software developer ($25-$43k), purchased computing resources ($30k), and a part-time project manager ($65k). Ideally, research assistants and more programmer support would be available, either funded, crowdsourced, or in-kind. In the event of high volume uptake (more than 100,000 sessions), text messaging via [Twilio](https://www.twilio.com/pricing) can be scaled with volume discounts, but would require additional funding. Each chatbot session costs about $0.12 (assuming 16 send/receive messages) in the United States, and is available for paralell deployment in dozens of other countries.
-<br><br>
-
 # Insights
 From years of deploying patient-centric health apps, we proceed with 4 central insights.
 
@@ -51,6 +47,17 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 
 # Tech Strategy
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
+<br><br>
+
+# Anticipated Costs
+*Traditional Development*<br>
+We are soliciting funding and suggestions to make this vision a reality. To develop a MVP using standard development process, at a minimum over 6 months, we will need a software developer ($25-$43k), purchased computing resources ($30k), and a part-time project manager ($65k). Ideally, 2 research assistants and more programmer support would be available, either funded, crowdsourced, or in-kind.
+<br><br>
+*Crowdsourced Development*<br>
+Capitalizing on boredom during a socially distanced holiday and altruistic impulse, an alternate approach is to rely on crowdsourcing for much of the devleopment as an open source project. For example, scientific tasks could be distributed to separate teams: searching for rumors on TikTok, monitoring and extracting results from scientific reports, message testing, creating the vernacular-to-medical language dictionary, assesing causality and writing blog posts, analyzing user-generated text. Similarly, once an architecture has been established, tech development tasks could be crowdsourced too. However, for this model to be successful, we still need a lead software designer and a lead scientific project manager to oversee task deployment. And, we would need to excite and motivate hundreds to yield a core dozen who would do most of the work.
+<br><br>
+*Scaling Costs*
+In the event of high volume uptake (more than 100,000 sessions), text messaging via [Twilio](https://www.twilio.com/pricing) can be scaled with volume discounts, but would require additional funding. Each chatbot session costs about $0.12 (assuming 16 send/receive messages) in the United States, and is available for paralell deployment in dozens of other countries.
 <br><br>
 
 # Why This Is Needed Now
