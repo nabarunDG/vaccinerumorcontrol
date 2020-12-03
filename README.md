@@ -93,6 +93,12 @@ A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520
 
 <br><br>
 
+# Existing Example
+[PoisonHelp.org is a similar web app](https://www.poisonhelp.org) that allows users to identify circumstances of poisoning exposures (broadly construed) and provides first pass information, depending on severity and circumstance, to triage whether they should seek help. It is carefully calibrated to limit liability while allowing the healthcare system to focus on cases that most need professional intervention. 
+<br>
+Leveraging the opportunity presented by COVID mass vaccination, the proposed project could serve as a model for future public health messaging.
+<br><br>
+
 # Read more...
 + [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/patients) we compiled on from advocates discussing COVID vaccine adverse event reporting
 + [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) already spreading on TikTok about COVID vaccines
