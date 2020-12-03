@@ -17,7 +17,7 @@ To factcheck vaccine side effect rumors and results in real-time. To deliver vet
 <br><br>
 
 # Watch the Demo
-Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. An embeddable web chatbot API is also envisioned. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
+Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. An embeddable web chatbot API is also envisioned. The platform will not diagnose or deliver treatment advice, but instead provide comfort suggestions to cope with common side effects. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
@@ -40,7 +40,7 @@ Offering encouragement to those with minor expected side effects will be essenti
 To rise above pandemic media saturation, a data tool must be easily propogated while fulfilling a fundamental public need, as the success of COVID tracker APIs demonstrates.<br>
 <br>
 **3. Patients expect instant feedback**<br>
-As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md), patients with side effects expect instant  and compassionate feedback.<br>
+As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md), patients with side effects expect instant and compassionate feedback. <br>
 <br>
 **4. Patients are reluctant to download single-use reporting apps**<br>
 [Based on our experience in 4 countries](https://link.springer.com/article/10.1007/s40264-019-00813-6), mobile apps for side effect reporting have limited uptake. The yet-unlaunched [CDC mobile app (V-SAFE)](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html) focuses on *collecting* information, while [patients](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) expect to *receive* information.
