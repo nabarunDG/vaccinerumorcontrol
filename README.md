@@ -68,12 +68,15 @@ A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520
 > "The actual injection felt, at first, just like a flu shot, which is basically just a little pinch in the side of your arm," Batalvi said. "Once I left the hospital, that evening, the stiffness got a little bit worse. It was definitely manageable, but you kind of don't really feel like moving your arm too far above your shoulder. But the side effects are pretty localized. I mean, it's just in the muscle in your arm. And that's about it. It doesn't really affect anything else and you feel fine."
 > That was after the first dose. But the second dose was different.
 > "I actually had some pretty significant symptoms after I got the second dose. Once I got the second dose, I was fine while I was in the hospital. But that evening was rough. I mean, I developed a low-grade fever, and fatigue and chills," Batalvi said. He said he was out for that day and evening, but he "felt ready to go by the next morning."
-> He said he called the study doctors to let them know about his symptoms. They weren't alarmed and told him he shouldn't be either.
-[CNN Dec 2, 2020](https://www.cnn.com/2020/12/02/health/coronavirus-vaccine-volunteer-side-effects/index.html)
-<br><br>
-> This summer, computational biologist Luke Hutchison volunteered for a trial of Moderna's COVID-19 vaccine. But after the second injection, his arm swelled up to the size of a “goose egg,” Hutchison says. He can't be sure he got the vaccine and not a placebo, but within a few hours, Hutchison, who was healthy and 43, was beset by bone and muscle aches and a 38.9°C fever. “I started shaking. I had cold and hot rushes,” he says. “I was sitting by the phone all night long thinking: ‘Should I call 911?’” Hutchison's symptoms resolved after 12 hours. But, he says, “Nobody prepared me for the severity of this.” [*Science* Nov 27, 2020](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ)
+> He said he called the study doctors to let them know about his symptoms. They weren't alarmed and told him he shouldn't be either.<br>
+> [CNN - Dec 2, 2020](https://www.cnn.com/2020/12/02/health/coronavirus-vaccine-volunteer-side-effects/index.html)
+<br>
 
-# Read More
+> This summer, computational biologist Luke Hutchison volunteered for a trial of Moderna's COVID-19 vaccine. But after the second injection, his arm swelled up to the size of a “goose egg,” Hutchison says. He can't be sure he got the vaccine and not a placebo, but within a few hours, Hutchison, who was healthy and 43, was beset by bone and muscle aches and a 38.9°C fever. “I started shaking. I had cold and hot rushes,” he says. “I was sitting by the phone all night long thinking: ‘Should I call 911?’” Hutchison's symptoms resolved after 12 hours. But, he says, “Nobody prepared me for the severity of this.”<br>
+> [*Science* - Nov 27, 2020](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ)
+<br><br>
+
+# Read more...
 + [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/patients) we compiled on from advocates discussing COVID vaccine adverse event reporting
 + [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) already spreading on TikTok about COVID vaccines
 + [Project team](https://nabarundg.github.io/vaccinerumorcontrol/team)
