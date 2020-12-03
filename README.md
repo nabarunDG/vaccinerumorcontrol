@@ -56,6 +56,8 @@ We will develop a chatbot to allowing users to describe symptoms and learn if th
 <br><br>
 
 # Funding
+Thus far this is a collaboration between the University of North Carolina at Chapel Hill and Rhizomik Tech, LLC. We are open to other collaborators. Funding could be directed at the university (scientific strategy) or the small business (tech strategy).
+<br>
 *Traditional Development*<br>
 We are soliciting funding and suggestions to make this vision a reality. We would like to develop a rapid MVP by January 2021. Using standard development process we will need a software developer ($25-$43k), purchased computing resources ($30k), and a scientific project manager ($40k). Ideally, 2 research assistants ($21k each) and more programmer resources would be available, either funded, crowdsourced, or in-kind. These resources are anticipated to cover the initial build and 6 months of moderate uptake.
 <br><br>
