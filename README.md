@@ -1,6 +1,5 @@
 ![COVID Vaccine Rumor Control](/docs/RumorControl_masks_chiron2.png)<br>
 *We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports and optimize vetted information for dissemination. We are not throwin’ away our shot.*
-<br>
 
 ---
 
@@ -9,7 +8,7 @@ To factcheck vaccine side effect rumors and results in real-time. To deliver vet
 <br>
 
 ```We are soliciting interest and funding to rapidly build (January deployment) a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
-<br><br>
+<br>
 ![message examples](/docs/messageexamples4.png)
 <br>
 <br>
