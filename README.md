@@ -71,9 +71,9 @@ A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
 <br><br>
 # Read More
-+ [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) we compiled on from advocates discussing COVID vaccine adverse event reporting
-+ [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/docs/misinformation.md) already spreading on TikTok about COVID vaccines
-+ Project [team](https://nabarundg.github.io/vaccinerumorcontrol/docs/team.md)
-+ [Software development](https://nabarundg.github.io/vaccinerumorcontrol/docs/softwaredev.md) process
-+ [Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/docs/regulatory.md)
-+ [Demo rumor dispelling](https://tarheels.live/vaccine/rumors-and-results/) pages
++ [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/patients) we compiled on from advocates discussing COVID vaccine adverse event reporting
++ [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) already spreading on TikTok about COVID vaccines
++ [Project team](https://nabarundg.github.io/vaccinerumorcontrol/team)
++ [Software development process](https://nabarundg.github.io/vaccinerumorcontrol/softwaredev)
++ [Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory)
++ [Example rumor dispelling](https://tarheels.live/vaccine/rumors-and-results/)
