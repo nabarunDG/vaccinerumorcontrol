@@ -7,8 +7,11 @@
 # Mission
 To factcheck vaccine side effect rumors and results in real-time. Deliver vetted information to patients effectively.<br>
 <br>
-```We are soliciting interest and funding to build a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
- <br><br>
+
+```diff
+! We are soliciting interest and funding to build a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.
+```
+<br><br>
 ![message examples](/docs/messageexamples4.png)
 <br>
 <br>
