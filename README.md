@@ -39,7 +39,7 @@ Offering encouragement to those with minor expected side effects will be essenti
 To rise above pandemic media saturation, a data tool must be easily propogated while fulfilling a fundamental public need, as the success of COVID tracker APIs demonstrates.<br>
 <br>
 **3. Patients expect instant feedback**<br>
-As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md), patients with side effects expect instant  and compassionate feedback.
+As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md), patients with side effects expect instant  and compassionate feedback.<br>
 <br>
 **4. Patients are reluctant to download single-use reporting apps**<br>
 [Based on our experience in 4 countries](https://link.springer.com/article/10.1007/s40264-019-00813-6), mobile apps for side effect reporting have limited uptake. The yet-unlaunched [CDC mobile app (V-SAFE)](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html) focuses on *collecting* information, while [patients](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) expect to *receive* information.
@@ -54,7 +54,7 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 |Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely|
 |Vaccine01|impanted microchip|false|
 |Vaccine02|chills|known, common, minor|
-<br><br>
+<br><br><br>
 # Tech Approach
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
 <br><br>
