@@ -5,10 +5,10 @@
 ---
 
 # Mission
-To factcheck vaccine side effect rumors and results in real-time. Deliver vetted information to patients effectively.<br>
+To factcheck vaccine side effect rumors and results in real-time. To deliver vetted information to the public effectively.<br>
 <br>
 
-```We are soliciting interest and funding to build a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
+```We are soliciting interest and funding to rapidly build (January deployment) a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
 <br><br>
 ![message examples](/docs/messageexamples4.png)
 <br>
@@ -17,7 +17,7 @@ To factcheck vaccine side effect rumors and results in real-time. Deliver vetted
 <br><br>
 
 # Watch the Demo
-Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
+Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. An embeddable web chatbot API is also envisioned. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
@@ -51,17 +51,18 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 <br><br>
 
 # Tech Strategy
-We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
+We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots will be developed to pilot message test. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing. + [Details here](https://nabarundg.github.io/vaccinerumorcontrol/softwaredev)
+
 <br><br>
 
 # Funding
 *Traditional Development*<br>
-We are soliciting funding and suggestions to make this vision a reality. To develop a MVP using standard development process, at a minimum over 6 months, we will need a software developer ($25-$43k), purchased computing resources ($30k), and a part-time project manager ($65k). Ideally, 2 research assistants ($21k each) and more programmer resources would be available, either funded, crowdsourced, or in-kind.
+We are soliciting funding and suggestions to make this vision a reality. We would like to develop a rapid MVP by January 2021. Using standard development process we will need a software developer ($25-$43k), purchased computing resources ($30k), and a scientific project manager ($40k). Ideally, 2 research assistants ($21k each) and more programmer resources would be available, either funded, crowdsourced, or in-kind. These resources are anticipated to cover the initial build and 6 months of moderate uptake.
 <br><br>
 *Crowdsourced Development*<br>
 Capitalizing on boredom during a socially distanced holiday and altruistic impulse, an alternate approach is to rely on crowdsourcing for much of the devleopment as an open source project. For example, scientific tasks could be distributed to separate teams: searching for rumors on TikTok, monitoring and extracting results from scientific reports, message testing, creating the vernacular-to-medical language dictionary, assesing causality and writing blog posts, analyzing user-generated text. Similarly, once an architecture has been established, tech development tasks could be crowdsourced too. However, for this model to be successful, we still need a lead software designer and a lead scientific project manager to oversee task deployment. And, we would need to excite and motivate hundreds to yield a core dozen who would do most of the work. Crowdfunding could also be envisioned. Both crowdsorucing and crowdfunding would be heavily reliant on institutional support for promotion. 
 <br><br>
-*Scaling Costs*
+*Scaling Costs*<br>
 In the event of high volume uptake (more than 100,000 sessions), text messaging via [Twilio](https://www.twilio.com/pricing) can be scaled with volume discounts, but would require additional funding. Each chatbot session costs about $0.12 (assuming 16 send/receive messages) in the United States, and is available for paralell deployment in dozens of other countries.
 <br><br>
 
