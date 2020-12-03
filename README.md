@@ -55,8 +55,8 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 |Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely|
 |Vaccine01|impanted microchip|false|
 |Vaccine02|chills|known, common, minor|
-
-<br><br>
+<br>
+<br>
 
 # Tech Approach
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
