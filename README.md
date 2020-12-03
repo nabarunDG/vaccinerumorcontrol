@@ -4,7 +4,8 @@
 <br>
 We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports and optimize vetted information for dissemination.
 <br>
-# Mission: Vetting Rumors and Results
+<br>
+# Mission
 To factcheck vaccine side effect rumors and results in real-time. Deliver vetted information to patients effectively.<br>
 <br>
 mass vaccination + common side effects + ubiquitous mobile phones = millions searching for reliable info on handhelds<br>
@@ -15,22 +16,24 @@ mass vaccination + common side effects + ubiquitous mobile phones = millions sea
 <br><br>
 ![message examples](/docs/messageexamples4.png)
 <br><br>
-
-# See the Demo
-In the demo we answer the 3 questions regarding vaccine side effects that patients find most important.
+<br>
+# Watch the Demo
+In this 1 minute demo video we show how we answer the three questions regarding vaccine side effects that patients find most important. 
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
 <br><br><br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 <br><br><br>
-# Data for Action
-User-generated text can be mined for shifts in 
+# Generated Data
+User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.
+<br><br>
 
-Unlike search engine trends and social media monitoring, we are 
-The time between vaccination and onset of symptoms is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine. Unlike
+# Anticipated  Costs
+We are soliciting funding to make this vision a reality. At a minimum over 6 months, we will need a software developer ($25-$43k), purchased computing resources ($30k), and a project manager ($65k). Ideally, research assistants and more programmer support would be available, either funded or in-kind. In the event of high volume traffic (more than 100,000 sessions), text messaging via [Twilio](https://www.twilio.com/pricing) can be scaled with volume discounts, but would require additional funding. Each chatbot session costs about $0.12 (assuming 16 send/receive messages) in the United States, and is available for paralell deployment in dozens of other countries.
 
-# Four Insights from Experience
+<br><br>
+# Insights
 From years of deploying patient-centric health apps, we proceed with 4 central insights.
 
 ### 1. The "worried well" need encouragement to get second doses
@@ -44,21 +47,22 @@ As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/doc
 
 ### 4. Patients are reluctant to download single-use reporting apps
 [Based on our experience in 4 countries](https://link.springer.com/article/10.1007/s40264-019-00813-6), mobile apps for side effect reporting have limited uptake. The yet-unlaunched [CDC mobile app (V-SAFE)](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html) focuses on *collecting* information, while [patients](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) expect to *receive* information. <br>
-
-# Scientific Approach: Evaluate Side Effect Rumors & Results
-We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect (aka adverse event) using data and medical knowledge to determine causality. 
+<br><br>
+# Scientific Approach
+The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.<br>
 <br>
-
+**Illustrative table of regularly updated results**<br>
+<br>
 |Vaccine|Side Effect|Status|
 |--|--|--|
-|Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely ([details](https://nabarundg.github.io/vaccinerumorcontrol/docs/softwaredev.md))|
-|Vaccine01|impanted microchip|false ([details](https://nabarundg.github.io/vaccinerumorcontrol/docs/softwaredev.md))|
-|Vaccine02|chills|true and common ([details](https://nabarundg.github.io/vaccinerumorcontrol/docs/softwaredev.md))|
-
-# Tech Approach: SMS and API Chatbot
-We will develop a chatbot to allowing users to describe their symptoms and learn if could be vaccine related. Serious side effects will be referred for medical attention. Basic management information will be provided for minor side effects, including how long symptoms are expected to last. The chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Aggregate data on side effects can be used for situational awareness in pharmacovigilance and pharmacoepidemiology.
-
-## Recognition of Need
+|Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely|
+|Vaccine01|impanted microchip|false|
+|Vaccine02|chills|known, common, minor|
+<br><br><br>
+# Tech Approach
+We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using [Twilio](), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. 
+<br><br>
+# Why This Is Needed Now
 A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need: Public needs to prep for vaccine side effects
 The professional society for side effect surveillance has been [warning about this concern](https://link.springer.com/article/10.1007/s40264-020-00941-4) for months. [Industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have been warning of the upcoming challenges. News media have also started recognizing the impending storm.
 
@@ -67,13 +71,11 @@ The professional society for side effect surveillance has been [warning about th
 + [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
 
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
-
+<br><br>
 # Read More
 + [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) we compiled on from advocates discussing COVID vaccine adverse event reporting
 + [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/docs/misinformation.md) already spreading on TikTok about COVID vaccines
 + Project [team](https://nabarundg.github.io/vaccinerumorcontrol/docs/team.md)
-+ Scientific data sources
-+ Possible budget configurations
 + [Software development](https://nabarundg.github.io/vaccinerumorcontrol/docs/softwaredev.md) process
 + [Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/docs/regulatory.md)
 + [Demo rumor dispelling](https://tarheels.live/vaccine/rumors-and-results/) pages
