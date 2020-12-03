@@ -13,6 +13,9 @@ To factcheck vaccine side effect rumors and results in real-time. Deliver vetted
 ![message examples](/docs/messageexamples4.png)
 <br>
 <br>
+[Jump to funding options](https://nabarundg.github.io/vaccinerumorcontrol/#funding)
+<br><br>
+
 # Watch the Demo
 Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
 1. Is it vaccine-related?
