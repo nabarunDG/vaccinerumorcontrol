@@ -56,7 +56,10 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 
 # Tech Strategy
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots will be developed to pilot message test. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing. + [Details here](https://nabarundg.github.io/vaccinerumorcontrol/softwaredev)
+<br><br>
 
+# Comfort Suggestions for Patients
+We will not be providing treatment advice to users. We are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long it might last. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercise, standard OTC pain relievers, etc.) is entirely reasonable and in line with is already said in news media. The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists.
 <br><br>
 
 # Funding
