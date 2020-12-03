@@ -8,9 +8,7 @@ We want COVID vaccines to succeed and get on with our lives. And, reports of “
 # Mission
 To factcheck vaccine side effect rumors and results in real-time. Deliver vetted information to patients effectively.<br>
 <br>
-mass vaccination + common side effects + ubiquitous mobile phones = millions searching for reliable info on handhelds<br>
 <br>
-
 ```We are soliciting interest and funding to build a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
  
 <br><br>
@@ -18,7 +16,7 @@ mass vaccination + common side effects + ubiquitous mobile phones = millions sea
 <br><br>
 <br>
 # Watch the Demo
-In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
+Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
@@ -31,7 +29,7 @@ User-generated text can be mined for shifts in public sentiment and provide spec
 <br><br>
 
 # Anticipated  Costs
-We are soliciting funding to make this vision a reality. At a minimum over 6 months, we will need a software developer ($25-$43k), purchased computing resources ($30k), and a project manager ($65k). Ideally, research assistants and more programmer support would be available, either funded or in-kind. In the event of high volume traffic (more than 100,000 sessions), text messaging via [Twilio](https://www.twilio.com/pricing) can be scaled with volume discounts, but would require additional funding. Each chatbot session costs about $0.12 (assuming 16 send/receive messages) in the United States, and is available for paralell deployment in dozens of other countries.
+We are soliciting funding to make this vision a reality. At a minimum over 6 months, we will need a software developer ($25-$43k), purchased computing resources ($30k), and a part-time project manager ($65k). Ideally, research assistants and more programmer support would be available, either funded, crowdsourced, or in-kind. In the event of high volume uptake (more than 100,000 sessions), text messaging via [Twilio](https://www.twilio.com/pricing) can be scaled with volume discounts, but would require additional funding. Each chatbot session costs about $0.12 (assuming 16 send/receive messages) in the United States, and is available for paralell deployment in dozens of other countries.
 
 <br><br>
 # Insights
@@ -61,12 +59,11 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 |Vaccine02|chills|known, common, minor|
 <br><br><br>
 # Tech Approach
-We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using [Twilio](), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. 
+We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing.
 <br><br>
 # Why This Is Needed Now
-A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need: Public needs to prep for vaccine side effects
-The professional society for side effect surveillance has been [warning about this concern](https://link.springer.com/article/10.1007/s40264-020-00941-4) for months. [Industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have been warning of the upcoming challenges. News media have also started recognizing the impending storm.
-
+A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need: Public needs to prep for vaccine side effects<br>
+[Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months.
 + [BBC News](https://www.bbc.com/news/54893437), Nov 15, 2020: Vaccine rumours debunked: Microchips, 'altered DNA' and more
 + [NBC News](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485), Nov 12, 2020: Covid-19 vaccines may have potentially unpleasant side effects
 + [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
