@@ -14,7 +14,6 @@ mass vaccination + common side effects + ubiquitous mobile phones = millions sea
  
 <br><br>
 ![message examples](/docs/messageexamples4.png)
-
 <br><br>
 
 # See the Demo
@@ -24,7 +23,7 @@ In the demo we answer the 3 questions regarding vaccine side effects that patien
 3. What should I do now?
 <br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
-
+<br>
 # Data for Action
 User-generated text can be mined for shifts in 
 
