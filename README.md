@@ -1,19 +1,16 @@
-![COVID Vaccine Rumor Control](/docs/RumorControl_masks_chiron2.png)
-*We are not throwin’ away our shot*
+![COVID Vaccine Rumor Control](/docs/RumorControl_masks_chiron2.png)<br>
+*We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports and optimize vetted information for dissemination. We are not throwin’ away our shot.*
 <br>
-<br>
-We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports and optimize vetted information for dissemination.
-<br>
-<br>
+
+---
+
 # Mission
 To factcheck vaccine side effect rumors and results in real-time. Deliver vetted information to patients effectively.<br>
 <br>
-<br>
 ```We are soliciting interest and funding to build a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
- 
-<br><br>
+ <br><br>
 ![message examples](/docs/messageexamples4.png)
-<br><br>
+<br>
 <br>
 # Watch the Demo
 Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
@@ -54,6 +51,7 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 |Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely|
 |Vaccine01|impanted microchip|false|
 |Vaccine02|chills|known, common, minor|
+
 <br><br><br>
 # Tech Approach
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
