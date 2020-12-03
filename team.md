@@ -13,7 +13,7 @@ Dr. Dasgupta co-created the mobile app for patient reporting of side effects for
 ## Benjamin Eugene White
 *Owner at Rhizomik Tech*
 <br><br>
-Benjamin White will be the full stack software engineer on the project, continuing his collaboration with this team. He created the semi-automated infrastructure that aggregates COVID mobility datasets currently. He is the owner of Rhizomik Tech, a small business supporting open science academic research. He has industry experience architecting complex data science projects, as well as teaching software development; he holds double master’s degrees in sociology and linguistic anthropology. His engineering capabilities relevant to this project include: Python, Pandas, Flask, Javascript React, Node, GitHub, R, Julia, JupyterHub, Docker, and Kubernetes
+Benjamin White will be the full stack software engineer on the project, continuing his collaboration with this team. He created the semi-automated infrastructure that aggregates COVID mobility datasets currently. He is the owner of Rhizomik Tech, a small business supporting open science academic research. He has industry experience architecting complex data science projects, as well as teaching software development; he holds double master’s degrees in sociology and linguistic anthropology. His engineering capabilities relevant to this project include: Python, Pandas, Flask, Javascript React, Django, Node, GitHub, R, Julia, JupyterHub, Docker, and Kubernetes
 
 ## Dr. Allison Lazard
 *Associate Professor at UNC Hussman School of Media and Journalism*
