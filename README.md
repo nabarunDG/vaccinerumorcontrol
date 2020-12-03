@@ -48,7 +48,7 @@ As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/doc
 # Scientific Approach
 The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.<br>
 <br>
-**Illustrative table of regularly updated results**<br>
+**Example table of regularly updated results**<br>
 <br>
 |Vaccine|Side Effect|Status|
 |--|--|--|
@@ -57,6 +57,7 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 |Vaccine02|chills|known, common, minor|
 
 <br><br>
+
 # Tech Approach
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
 <br><br>
