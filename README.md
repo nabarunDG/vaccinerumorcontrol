@@ -17,7 +17,7 @@ Jump to [funding options](https://nabarundg.github.io/vaccinerumorcontrol/#fundi
 <br><br>
 
 # Watch the Demo
-Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. The envisioned platform focuses on SMS because it is the lowest threshold and most widespread. An embeddable web chatbot API is also envisioned. The platform will not diagnose or deliver treatment advice, but instead provide comfort suggestions to cope with common side effects. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
+Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer three essential questions regarding side effects that patients find most important.
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
@@ -26,7 +26,12 @@ Mass vaccinations, common side effects, and ubiquitous mobile phones mean millio
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 <br><br>
 
-# Generated Data
+The three essential questions were identified from our experience [deploying mobile apps](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656696/) and [monitoring social media](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858385/). The platform focuses on SMS because it is low threshold and widespread. WhatsApp integration and an embeddable web-based chatbot API are also envisioned. Non-minor and ambiguous events will be referred to clincians and pharmacists, with links for [official adverse event reporting](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2020-09/COVID-03-Shimabukuro.pdf). 
+<br><br>
+Jump to [Regulatory Considerations](https://nabarundg.github.io/vaccinerumorcontrol/#regulatory-considerations) and [Comfort Advice](https://nabarundg.github.io/vaccinerumorcontrol/#comfort-suggestions-for-patients)
+<br><br>
+
+# User Generated Data
 User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.
 <br><br>
 
@@ -34,7 +39,7 @@ User-generated text can be mined for shifts in public sentiment and provide spec
 From years of deploying patient-centric health apps, we proceed with 4 central insights.
 
 **1. The "worried well" need encouragement to get second doses**<br>
-Offering encouragement to those with minor expected side effects will be essential to overcome hesitancy for regimen completion.<br>
+Offering encouragement to those with minor expected side effects will be essential to overcome hesitancy for regimen completion. Triaging the worried well also aids the healthcare system from being overrun. <br>
 <br>
 **2. Syndication speeds uptake**<br>
 To rise above pandemic media saturation, a data tool must be easily propogated while fulfilling a fundamental public need, as the success of COVID tracker APIs demonstrates.<br>
@@ -43,7 +48,7 @@ To rise above pandemic media saturation, a data tool must be easily propogated w
 As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md), patients with side effects expect instant and compassionate feedback. <br>
 <br>
 **4. Patients are reluctant to download single-use reporting apps**<br>
-[Based on our experience in 4 countries](https://link.springer.com/article/10.1007/s40264-019-00813-6), mobile apps for side effect reporting have limited uptake. The yet-unlaunched [CDC mobile app (V-SAFE)](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html) focuses on *collecting* information, while [patients](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) expect to *receive* information.
+[Based on our experience in 4 countries](https://link.springer.com/article/10.1007/s40264-019-00813-6), mobile apps for side effect reporting have limited uptake. The forthcoming [CDC mobile app (V-SAFE)](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html) focuses on *collecting* information, while [patients](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) expect to *receive* information. Referrals to V-SAFE will be made via the chat for non-minor events. In this way, the chatbot fills unmet patient needs and serves as an entry point for official data collection.
 <br><br>
 
 # Scientific Strategy
@@ -72,7 +77,7 @@ Anticipated build components:
 <br>
 
 # Comfort Suggestions for Patients
-We will not be providing treatment advice to users. We are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long it might last. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercise, standard OTC pain relievers, etc.) is entirely reasonable and in line with is already said in news media. The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists.
+We will not be providing treatment advice to users. Instead, we are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long symptoms might last or age-specific profiles. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercises, standard OTC pain relievers, etc.) is entirely reasonable. We may not have to create this content ourselves, since [news media](https://nabarundg.github.io/vaccinerumorcontrol/#why-this-is-needed-now) are already making these suggestions. Providing information that patients expect is inherent to the value proposition. The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists, as with [PoisonHelp.org](https://www.poisonhelp.org). We recognize that pharma and government authorities have traditionally shied away from comfort suggestions, but the exceptional conditions of the pandemic call for patient-centric strategies that are bolder. The academia-tech-pharmacist-advocate collaboration envisioned will have fewer constraints.
 <br><br>
 
 # Funding
