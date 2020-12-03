@@ -77,6 +77,11 @@ Anticipated build components:
 
 <br>
 
+# Uptake Strategy
+Uptake by end users will require concerted promotion. Ideally, materials will be provided to patients at the point of vaccination. All vaccination venues, pharmacists, and clinic offices/receptionists are potential partners. Promotion plans will be more fully developed as a team. 
+
+<br><br> 
+
 # Comfort Suggestions for Patients
 We will not be providing treatment advice to users. Instead, we are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long symptoms might last or age-specific profiles. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercises, standard OTC pain relievers, etc.) is entirely reasonable. We may not have to create this content ourselves, since [news media](https://nabarundg.github.io/vaccinerumorcontrol/#why-this-is-needed-now) are already making these suggestions. Providing information that patients expect is inherent to the value proposition. The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists, as with [PoisonHelp.org](https://www.poisonhelp.org). We recognize that pharma and government authorities have traditionally shied away from comfort suggestions, but the exceptional conditions of the pandemic call for patient-centric strategies that are bolder. The academia-tech-pharmacist-advocate collaboration envisioned will have fewer constraints.
 <br><br>
