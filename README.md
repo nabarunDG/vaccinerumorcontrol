@@ -45,23 +45,14 @@ As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/doc
 [Based on our experience in 4 countries](https://link.springer.com/article/10.1007/s40264-019-00813-6), mobile apps for side effect reporting have limited uptake. The yet-unlaunched [CDC mobile app (V-SAFE)](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html) focuses on *collecting* information, while [patients](https://nabarundg.github.io/vaccinerumorcontrol/docs/patients.md) expect to *receive* information.
 <br><br>
 
-# Scientific Approach
-The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.<br>
-<br>
-**Example table of regularly updated results**<br>
-<br>
-|Vaccine|Side Effect|Status|
-|--|--|--|
-|Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely|
-|Vaccine01|impanted microchip|false|
-|Vaccine02|chills|known, common, minor|
+# Scientific Strategy
+The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.
+<br><br>
 
-<br>
-<br>
-
-# Tech Approach
+# Tech Strategy
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots be developed for pilot message testing. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing.
 <br><br>
+
 # Why This Is Needed Now
 A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need: Public needs to prep for vaccine side effects<br>
 [Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months.
@@ -71,6 +62,7 @@ A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520
 
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
 <br><br>
+
 # Read More
 + [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/patients) we compiled on from advocates discussing COVID vaccine adverse event reporting
 + [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) already spreading on TikTok about COVID vaccines
