@@ -55,8 +55,21 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 <br>
 
 # Tech Strategy
-We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots will be developed to pilot message test. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing. + [Details here](https://nabarundg.github.io/vaccinerumorcontrol/softwaredev)
+We will develop a chatbot allowing users to describe symptoms and learn if they could be vaccine-related. To operationalize, three types of tools are envisioned: rumor curation tables and interface, core chatbot functionality, and real-time NLP layers to respond to user input. Bolded elements represent the anticipated MVP pathway.
 <br><br>
+Anticipated build components:
+
++ Scientist-facing backend interface to log and ajudicate rumors and results, with Git-oriented off-the-shelf tools for version control
++ **Master tables for each vaccine with known/suspected/unlikely side effects and comfort suggestions, with syndication capability (REST API, dynamic GitHub table)**
++ **Decision tree for actions**
++ A blog-style public-facing Rumor Control website ([example](https://tarheels.live/vaccine/2020/12/01/transverse-myelitis-in-astrazeneca-oxford-trial/))
++ **Real-time NLP tool (integrated with chatbot API/SDK) to interpret user responses and auto-generate text**
++ **To support NLP, a dynamic dictionary to translate vernacular symptoms to medical ontology (allowing comparison to scientific reports)**
++ **Python and Django chatbot for message testing and embedding in third-party websites**
++ [Twilio](https://www.twilio.com/messaging) deployment for SMS text and WhatsApp
++ Data export capability for retrospective/static analysis
+
+<br>
 
 # Comfort Suggestions for Patients
 We will not be providing treatment advice to users. We are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long it might last. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercise, standard OTC pain relievers, etc.) is entirely reasonable and in line with is already said in news media. The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists.
@@ -79,7 +92,7 @@ In the event of high volume uptake (more than 100,000 sessions), text messaging 
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
 <br>
 A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need.<br>
-[Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months.
+[Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months. [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) are already spreading on TikTok about COVID vaccines.
 + [USA Today](https://www.usatoday.com/story/news/health/2020/12/02/covid-vaccine-pfizer-moderna-astrazeneca-what-to-know/6476436002/), Dec 2, 2020: Will there be side effects from a COVID-19 vaccine? When can you get it? We answer your vaccine questions
 + [CNN](https://www.cnn.com/2020/12/02/health/coronavirus-vaccine-volunteer-side-effects/index.html), Dec 2, 2020: What it feels like to get an mRNA coronavirus vaccine
 + [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
@@ -108,8 +121,7 @@ Leveraging the opportunity presented by COVID mass vaccination, the proposed pro
 
 # Read more...
 + [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/patients) we compiled on from advocates discussing COVID vaccine adverse event reporting
-+ [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) already spreading on TikTok about COVID vaccines
++ [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) about COVID vaccines
 + [Project team](https://nabarundg.github.io/vaccinerumorcontrol/team)
-+ [Software development process](https://nabarundg.github.io/vaccinerumorcontrol/softwaredev)
 + [Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory)
 + [Example rumor dispelling](https://tarheels.live/vaccine/rumors-and-results/)
