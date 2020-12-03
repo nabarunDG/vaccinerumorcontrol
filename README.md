@@ -80,8 +80,10 @@ In the event of high volume uptake (more than 100,000 sessions), text messaging 
 <br>
 A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need.<br>
 [Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months.
++ [USA Today](https://www.usatoday.com/story/news/health/2020/12/02/covid-vaccine-pfizer-moderna-astrazeneca-what-to-know/6476436002/), Dec 2, 2020: Will there be side effects from a COVID-19 vaccine? When can you get it? We answer your vaccine questions
 + [CNN](https://www.cnn.com/2020/12/02/health/coronavirus-vaccine-volunteer-side-effects/index.html), Dec 2, 2020: What it feels like to get an mRNA coronavirus vaccine
 + [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
++ [WebMD](https://www.webmd.com/lung/news/20201124/people-should-know-that-covid-vaccine-might-spur-transient-sickness-cdc-experts#1), Nov 24, 2020: Experts: COVID Vaccine May Cause Side Effects
 + [BBC News](https://www.bbc.com/news/54893437), Nov 15, 2020: Vaccine rumours debunked: Microchips, 'altered DNA' and more
 + [NBC News](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485), Nov 12, 2020: Covid-19 vaccines may have potentially unpleasant side effects
 
