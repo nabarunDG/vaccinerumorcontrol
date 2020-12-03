@@ -8,10 +8,11 @@ To factcheck vaccine side effect rumors and results in real-time. To deliver vet
 
 ```We are soliciting interest and funding to rapidly build (January deployment) a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
 
-<br>
+<br><br>
+
 ![message examples](/docs/messageexamples4.png)
-<br>
-<br>
+
+<br><br>
 Jump to [funding options](https://nabarundg.github.io/vaccinerumorcontrol/#funding) and [project team](https://nabarundg.github.io/vaccinerumorcontrol/team)
 <br><br>
 
