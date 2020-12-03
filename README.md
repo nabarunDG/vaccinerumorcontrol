@@ -101,7 +101,7 @@ In the event of high volume uptake (more than 100,000 sessions), text messaging 
 # Why This Is Needed Now
 A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need.<br><br>
 <a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
-<br>
+<br><br>
 [Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months. [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) are already spreading on TikTok about COVID vaccines.
 + [USA Today](https://www.usatoday.com/story/news/health/2020/12/02/covid-vaccine-pfizer-moderna-astrazeneca-what-to-know/6476436002/), Dec 2, 2020: Will there be side effects from a COVID-19 vaccine? When can you get it? We answer your vaccine questions
 + [CNN](https://www.cnn.com/2020/12/02/health/coronavirus-vaccine-volunteer-side-effects/index.html), Dec 2, 2020: What it feels like to get an mRNA coronavirus vaccine
