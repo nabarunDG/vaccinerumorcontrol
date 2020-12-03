@@ -17,7 +17,7 @@ Mass vaccinations, common side effects, and ubiquitous mobile phones mean millio
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
-<br><br><br>
+<br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 <br><br>
 # Generated Data
