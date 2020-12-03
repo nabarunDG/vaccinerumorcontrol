@@ -21,9 +21,9 @@ In the demo we answer the 3 questions regarding vaccine side effects that patien
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
-<br>
+<br><br><br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
-<br>
+<br><br><br>
 # Data for Action
 User-generated text can be mined for shifts in 
 
