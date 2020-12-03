@@ -20,6 +20,7 @@ Mass vaccinations, common side effects, and ubiquitous mobile phones mean millio
 <br><br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 <br><br>
+
 # Generated Data
 User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.
 <br><br>
