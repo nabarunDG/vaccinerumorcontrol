@@ -18,15 +18,16 @@ mass vaccination + common side effects + ubiquitous mobile phones = millions sea
 <br><br>
 <br>
 # Watch the Demo
-In this 1 minute demo video we show how we answer the three questions regarding vaccine side effects that patients find most important. 
+In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer the three questions regarding vaccine side effects that patients find most important. 
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
 <br><br><br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 <br><br><br>
+
 # Generated Data
-User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.
+User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.<br>
 <br><br>
 
 # Anticipated  Costs
