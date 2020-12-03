@@ -49,6 +49,10 @@ As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/doc
 # Scientific Strategy
 The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.
 <br><br>
+> Notably, exposure to misinformation cannot simply be undone through fact checking, correcting, or debunking efforts: a large body of research has shown that retractions are rarely successful at eliminating reliance on misinformation, a phenomenon known as the “continued influence” effect. Mitigating the effects of exposure to vaccine misinformation requires the development and testing of novel strategies beyond traditional vaccine education efforts.<br>
+> <br>
+> Robin C. Vanderpool, Anna Gaysynsky, and Wen-Ying Sylvia Chou [writing](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305906) in the October *American Journal of Public Health* [supplement on tackling misinformation online](https://ajph.aphapublications.org/toc/ajph/110/S3)
+<br>
 
 # Tech Strategy
 We will develop a chatbot to allowing users to describe symptoms and learn if they could be vaccine-related. Serious side effects will be referred for medical attention. Basic management information will be provided for common known minor side effects, including how long symptoms are expected to last. Using services like [Twilio](https://www.twilio.com/messaging), the chatbot can be embedded in other websites for mass syndication, and will be accessible via SMS text and WhatsApp. Python-based chatbots will be developed to pilot message test. As we have done in previous projects, a dictionary will be developed to translate vernacular symptoms to a medical ontology to assist with natural language processing. + [Details here](https://nabarundg.github.io/vaccinerumorcontrol/softwaredev)
@@ -69,16 +73,14 @@ In the event of high volume uptake (more than 100,000 sessions), text messaging 
 <br><br>
 
 # Why This Is Needed Now
-A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need: Public needs to prep for vaccine side effects<br>
+<a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
+<br>
+A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ) summarizes the need.<br>
 [Professional societies](https://link.springer.com/article/10.1007/s40264-020-00941-4) and [industry experts](https://www.mymedsandme.com/resources/whitepapers/impact-covid-19-vaccination-on-safety-reporting-and-liability) have warned of this challege for months.
 + [CNN](https://www.cnn.com/2020/12/02/health/coronavirus-vaccine-volunteer-side-effects/index.html), Dec 2, 2020: What it feels like to get an mRNA coronavirus vaccine
 + [Washington Post](https://www.washingtonpost.com/politics/2020/11/17/cybersecurity-202-next-big-disinformation-fight-is-coming-over-coronavirus-vaccines/), Nov 17, 2020: The next big disinformation fight is coming – over coronavirus vaccines
 + [BBC News](https://www.bbc.com/news/54893437), Nov 15, 2020: Vaccine rumours debunked: Microchips, 'altered DNA' and more
 + [NBC News](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485), Nov 12, 2020: Covid-19 vaccines may have potentially unpleasant side effects
-
-
-<a href="https://science.sciencemag.org/content/370/6520/1022" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/scienceheadline2.png)</a>
-<br><br>
 
 ### Revealing RCT patient experiences reported publicly
 > "The actual injection felt, at first, just like a flu shot, which is basically just a little pinch in the side of your arm," Batalvi said. "Once I left the hospital, that evening, the stiffness got a little bit worse. It was definitely manageable, but you kind of don't really feel like moving your arm too far above your shoulder. But the side effects are pretty localized. I mean, it's just in the muscle in your arm. And that's about it. It doesn't really affect anything else and you feel fine."
