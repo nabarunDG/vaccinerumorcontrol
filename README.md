@@ -29,7 +29,7 @@ Mass vaccinations, common side effects, and ubiquitous mobile phones mean millio
 
 The three essential questions were identified from our experience [deploying mobile apps](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656696/) and [monitoring social media](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858385/). The platform focuses on SMS because it is low threshold and widespread. WhatsApp integration and an embeddable web-based chatbot API are also envisioned. Non-minor and ambiguous events will be referred to clincians and pharmacists, with links for [official adverse event reporting](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2020-09/COVID-03-Shimabukuro.pdf). 
 <br><br>
-Jump to [Regulatory Considerations](https://nabarundg.github.io/vaccinerumorcontrol/#regulatory-considerations) and [Comfort Advice](https://nabarundg.github.io/vaccinerumorcontrol/#comfort-suggestions-for-patients)
+Jump to [Regulatory and Legal Considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory) and [Comfort Suggestions](https://nabarundg.github.io/vaccinerumorcontrol/#comfort-suggestions-for-patients)
 <br><br>
 
 # User Generated Data
@@ -82,7 +82,7 @@ Uptake by end users will require concerted promotion. Ideally, materials will be
 <br><br> 
 
 # Comfort Suggestions for Patients
-We will not be providing treatment advice to users. Instead, we are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long symptoms might last or age-specific profiles. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercises, standard OTC pain relievers, etc.) is entirely reasonable. We may not have to create this content ourselves, since [news media](https://nabarundg.github.io/vaccinerumorcontrol/#why-this-is-needed-now) are already making these suggestions. Providing information that patients expect is inherent to the value proposition. The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists, as with [PoisonHelp.org](https://www.poisonhelp.org). We recognize that pharma and government authorities have traditionally shied away from comfort suggestions, but the exceptional conditions of the pandemic call for patient-centric strategies that are bolder. The academia-tech-pharmacist-advocate collaboration envisioned will have fewer constraints. But, to mitigate risks we can focus on non-therapeutic comfort suggestions at launch and see how the environment develops.
+We will not be providing treatment recommendations to users. Instead, we are delivering vetted side effect information in a format that is meaningful, for example augmenting with how long symptoms might last or age-specific profiles. For the most common, easily managed, minor side effects like chills and soreness, providing general comfort suggestions (ice, arm movement exercises, standard OTC pain relievers, etc.) is entirely reasonable. We may not have to create this content ourselves, since [news media](https://nabarundg.github.io/vaccinerumorcontrol/#why-this-is-needed-now) are already making these suggestions. To mitigate risks we can focus on non-therapeutic comfort suggestions at launch. **Providing information that patients expect is inherent to the value proposition.** The general posture is to refer anything ambiguous or complicated to clinicians/pharmacists, as with [PoisonHelp.org](https://www.poisonhelp.org). We recognize that pharma and government authorities have traditionally shied away from comfort suggestions, but the exceptional conditions of the pandemic call for patient-centric strategies that are bolder. Read more about [regulatory and legal considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory).
 <br><br>
 
 # Funding
@@ -133,5 +133,5 @@ Leveraging the opportunity presented by COVID mass vaccination, the proposed pro
 + [Patient perspective video](https://nabarundg.github.io/vaccinerumorcontrol/patients) we compiled on from advocates discussing COVID vaccine adverse event reporting
 + [Misinformation and humor](https://nabarundg.github.io/vaccinerumorcontrol/misinformation) about COVID vaccines
 + [Project team](https://nabarundg.github.io/vaccinerumorcontrol/team)
-+ [Regulatory considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory)
++ [Regulatory and legal considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory)
 + [Example rumor dispelling](https://tarheels.live/vaccine/rumors-and-results/)
