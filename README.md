@@ -1,5 +1,3 @@
-**Concept note to develop COVID vaccine side effect chatbot**<br>
-
 ![COVID Vaccine Rumor Control](/docs/RumorControl_masks_chiron2.png)
 *We are not throwin’ away our shot*
 <br>
@@ -7,20 +5,31 @@
 We want COVID vaccines to succeed and get on with our lives. And, reports of “90%+ effective” have primed the public to expect miracles. But, vaccine acceptability will be contingent on a yet nebulous profile of safety. Therefore, we must proactively evaluate side effect reports and optimize vetted information for dissemination.
 <br>
 # Mission: Vetting Rumors and Results
-To factcheck vaccine rumors/results in real-time to deliver side effect information to patients effectively.<br>
+To factcheck vaccine side effect rumors and results in real-time. Deliver vetted information to patients effectively.<br>
 <br>
-mass vaccination + common side effects + ubiquitous mobile phones = millions searching for reliable info on handhelds
+mass vaccination + common side effects + ubiquitous mobile phones = millions searching for reliable info on handhelds<br>
+<br>
 
-# Answering the 3 Most Important Questions
-We will answer the 3 questions regarding vaccine side effects that patients find most important.
+```We are soliciting interest and funding to build a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
+ 
+<br><br>
+![message examples](/docs/messageexamples4.png)
+
+<br><br>
+
+# See the Demo
+In the demo we answer the 3 questions regarding vaccine side effects that patients find most important.
 1. Is it vaccine-related?
 2. How long will it last?
 3. What should I do now?
 <br>
+<a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 
-![message examples](/docs/messageexamples3.png)
+# Data for Action
+User-generated text can be mined for shifts in 
 
-<br><br>
+Unlike search engine trends and social media monitoring, we are 
+The time between vaccination and onset of symptoms is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine. Unlike
 
 # Four Insights from Experience
 From years of deploying patient-centric health apps, we proceed with 4 central insights.
