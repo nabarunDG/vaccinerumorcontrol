@@ -110,7 +110,7 @@ A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520
 + [BBC News](https://www.bbc.com/news/54893437), Nov 15, 2020: Vaccine rumours debunked: Microchips, 'altered DNA' and more
 + [NBC News](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485), Nov 12, 2020: Covid-19 vaccines may have potentially unpleasant side effects
 
-### Revealing RCT patient experiences reported publicly
+### Clinical Trial Patient Experiences in the News
 > "The actual injection felt, at first, just like a flu shot, which is basically just a little pinch in the side of your arm," Batalvi said. "Once I left the hospital, that evening, the stiffness got a little bit worse. It was definitely manageable, but you kind of don't really feel like moving your arm too far above your shoulder. But the side effects are pretty localized. I mean, it's just in the muscle in your arm. And that's about it. It doesn't really affect anything else and you feel fine."
 > That was after the first dose. But the second dose was different.
 > "I actually had some pretty significant symptoms after I got the second dose. Once I got the second dose, I was fine while I was in the hospital. But that evening was rough. I mean, I developed a low-grade fever, and fatigue and chills," Batalvi said. He said he was out for that day and evening, but he "felt ready to go by the next morning."
