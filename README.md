@@ -55,6 +55,7 @@ The goal is to evaluate side effect rumors and study results in real-time. We wi
 |Vaccine01|transverse myelitis (rare inflammation of the spinal cord)|unlikely|
 |Vaccine01|impanted microchip|false|
 |Vaccine02|chills|known, common, minor|
+
 <br>
 <br>
 
