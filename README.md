@@ -6,7 +6,7 @@
 # Mission
 To factcheck vaccine side effect rumors and results in real-time. To deliver vetted information to the public effectively.<br>
 
-```We are soliciting interest and funding to rapidly build (January deployment) a lightweight science-as-a-service tool. The rumor control website will require scientific expertise, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
+```We are soliciting interest and funding to rapidly build a lightweight science-as-a-service tool for Jan-Feb deployment. The rumor control website will require scientific expertise, message crafting will require scicomms exerts, and the chatbot will require software developers. Please WhatsApp (+1-919-260-3808) or email nab@unc.edu if interested.```
 <br><br>
 **Proposed chatbot interactions:**
 <br><br>
@@ -26,14 +26,13 @@ Mass vaccinations, common side effects, and ubiquitous mobile phones mean millio
 <br><br>
 <a href="https://vimeo.com/486023188" rel="demo video">![](https://nabarundg.github.io/vaccinerumorcontrol/docs/vimeo_demo4.png)</a>
 <br><br>
-
-The three essential questions were identified from our experience [deploying mobile apps](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656696/) and [monitoring social media](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858385/). The platform focuses on SMS because it is low threshold and widespread. WhatsApp integration and an embeddable web-based chatbot API are also envisioned. Non-minor and ambiguous events will be referred to clincians and pharmacists, with links for [official adverse event reporting](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2020-09/COVID-03-Shimabukuro.pdf). This platform addresses a long-standing need to deliver responsive patient-centric health communication and can serve as a model. 
+The three essential questions were identified from our experience [deploying mobile apps](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656696/), [monitoring social media](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858385/), and most importantly, [listening to patients](https://nabarundg.github.io/vaccinerumorcontrol/patients). Platform development is oriented towards SMS because the technology is low threshold and widespread. WhatsApp integration and an embeddable web-based chatbot API are also envisioned. Non-minor and ambiguous events will be referred to clincians and pharmacists, with links for [official adverse event reporting](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2020-09/COVID-03-Shimabukuro.pdf).
 <br><br>
 Jump to [Regulatory and Legal Considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory) and [Comfort Suggestions](https://nabarundg.github.io/vaccinerumorcontrol/#comfort-suggestions-for-patients)
 <br><br>
 
 # User Generated Data
-User-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine.
+Anonymized user-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine. But, the real goal of this project is to provide an avenue for meaningful information (pharmacovigilance is not the primary intent). Data privacy and retention policies will favor public trust over research interests.
 <br><br>
 
 # Insights
@@ -53,15 +52,29 @@ As described in this [video](https://nabarundg.github.io/vaccinerumorcontrol/doc
 <br><br>
 
 # Scientific Strategy
-The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.
+[Our team](https://nabarundg.github.io/vaccinerumorcontrol/team) has experience in evaluating side effects in real-time from the public. The goal is to evaluate side effect rumors and study results in real-time. We will monitor social and news media, scientific literature, pharmaceutical industry filings, and government reports to identify emerging concerns about vaccine side effects. We will scientifically assess each new side effect ("adverse event") using data and medical knowledge to determine causality. The team will consist of experts in pharmacovigilance, pharmacoepidemiology, pharmacology, and related disciplines.
 <br><br>
-> Notably, exposure to misinformation cannot simply be undone through fact checking, correcting, or debunking efforts: a large body of research has shown that retractions are rarely successful at eliminating reliance on misinformation, a phenomenon known as the “continued influence” effect. Mitigating the effects of exposure to vaccine misinformation requires the development and testing of novel strategies beyond traditional vaccine education efforts.<br>
+
+# Misinformation Strategy
+[Our team](https://nabarundg.github.io/vaccinerumorcontrol/team) has experience in crafting messages and visuals to address misinformation online. We have also developed a [behavioral model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656696/) for soliciting side effect information on mobile platforms. We will combine this expertise, and that of future collaborators, to craft and test chatbot interactions that are more salient than the demo. The [October 2020 issue of *American Journal of Public Health*](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305943) was dedicated to this topic. It's worth a read. Some relevant findings:.<br>
+<br><br>
+> **Notably, exposure to misinformation cannot simply be undone through fact checking, correcting, or debunking efforts**: a large body of research has shown that retractions are rarely successful at eliminating reliance on misinformation, a phenomenon known as the “continued influence” effect. Mitigating the effects of exposure to vaccine misinformation requires the development and testing of novel strategies beyond traditional vaccine education efforts.<br>
 > <br>
-> Robin C. Vanderpool, Anna Gaysynsky, and Wen-Ying Sylvia Chou [writing](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305906) in the October *American Journal of Public Health* [supplement on tackling misinformation online](https://ajph.aphapublications.org/toc/ajph/110/S3)
+> [Vanderpool, Gaysynsky, and Chou](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305906)
+<br><br>
+
+[Southwell, Wood, and Nevar](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305729) point out the traditional misplacement of emphasis by health professionals in addressing vaccine misinformation. <br>
 <br>
 
+>[Leask et al.](https://bmcpediatr.biomedcentral.com/articles/10.1186/1471-2431-12-154) developed a guide for health professionals to consider in addressing parental vaccination concerns. They emphasize a stance that offers **parents assistance in decision-making rather than attempting to persuade parents directly or discredit specific information sources**. Such an approach prioritizes offering informed advice on how to think about vaccine decisions rather than discrediting specific information sources.<br>
+<br><br>
+
+[Further insights](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305943) from these authors quantifies what we may have personally observed:<br>
+> The longitudinal analysis of antivaccine Facebook pages in [Broniatowski et al.](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.305869) points to... the “freedom of choice” framing of vaccine decisions. The increased focus on civil liberties since 2015 suggests that attempts to counter vaccine misinformation will need to address political arguments, rather than solely providing facts about vaccine safety and efficacy.<br>
+<br><br>
+
 # Tech Strategy
-We will develop a chatbot allowing users to describe symptoms and learn if they could be vaccine-related. To operationalize, three types of tools are envisioned: rumor curation tables and interface, core chatbot functionality, and real-time NLP layers to respond to user input. Bolded elements represent the anticipated MVP pathway.
+[Our team](https://nabarundg.github.io/vaccinerumorcontrol/team) has experience building and scaling NLP-based apps. We will develop a chatbot allowing users to describe symptoms and learn if they could be vaccine-related. To operationalize, three types of tools are envisioned: rumor curation tables and interface, core chatbot functionality, and real-time NLP layers to respond to user input. Bolded elements represent the anticipated MVP pathway.
 <br><br>
 Anticipated build components:
 
