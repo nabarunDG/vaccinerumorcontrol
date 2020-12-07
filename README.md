@@ -17,7 +17,7 @@ We have identified **two specific moments to intervene**.
 2. **Side effect onset: What is normal** - Less recognized are the cognitively vulnerable "poor-me" hours as side effects manifest. The onset of side effects is likely to prompt digital sleuthing and reaching out to trusted family and friends. A Google search is predictable, and our efforts are to pre-empt entry into conspiracy-laden networks. [Psychology of conspiracy theories](https://journals.sagepub.com/doi/10.1177/0963721417718261) reveals that people are likely to turn to conspiracy theories when they are anxious and feel powerless. Therefore, our fundamental proposition is to provide reliable choice-oriented information and comfort suggestions at side effect onset. 
 <br>
 
-[Read more about our Misinformation Strategy](https://nabarundg.github.io/vaccinerumorcontrol/#funding)
+[Read more about our Misinformation Strategy](https://nabarundg.github.io/vaccinerumorcontrol/misinformationstrategy)
 
 **Proposed chatbot interactions:**
 <br><br>
