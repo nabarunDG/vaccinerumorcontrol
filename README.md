@@ -17,18 +17,17 @@ We have identified **two specific moments to intervene**.
 2. **Side effect onset: What is normal** - Less recognized are the cognitively vulnerable "poor-me" hours as side effects manifest. The onset of side effects is likely to prompt digital sleuthing and reaching out to trusted family and friends. A Google search is predictable, and our efforts are to pre-empt entry into conspiracy-laden networks. [Psychology of conspiracy theories](https://journals.sagepub.com/doi/10.1177/0963721417718261) reveals that people are likely to turn to conspiracy theories when they are anxious and feel powerless. Therefore, our fundamental proposition is to provide reliable choice-oriented information and comfort suggestions at side effect onset. 
 <br>
 
-[Read more about our Misinformation Strategy](https://nabarundg.github.io/vaccinerumorcontrol/misinformationstrategy)
-
-**Proposed chatbot interactions:**
-<br><br>
-
-![message examples](/docs/messageexamples4.png)
-
-<br><br>
-Jump to [funding options](https://nabarundg.github.io/vaccinerumorcontrol/#funding) and [project team](https://nabarundg.github.io/vaccinerumorcontrol/team)
-<br><br>
+[Read more about our Misinformation Strategy](https://nabarundg.github.io/vaccinerumorcontrol/misinformationstrategy)<br>
 
 # Watch the Demo
+
+**Proposed chatbot interaction**
+<br><br>
+
+![message examples](/docs/messageexamples4.png)<br>
+
+<br>
+
 Mass vaccinations, common side effects, and ubiquitous mobile phones mean millions will be searching for reliable information on handhelds. In this [1 minute demo video](https://vimeo.com/486023188) we show how to answer three essential questions regarding side effects that patients find most important.
 1. Is it vaccine-related?
 2. How long will it last?
@@ -41,6 +40,10 @@ The three essential questions were identified from our experience [deploying mob
 <br><br>
 Jump to [Regulatory and Legal Considerations](https://nabarundg.github.io/vaccinerumorcontrol/regulatory) and [Comfort Suggestions](https://nabarundg.github.io/vaccinerumorcontrol/#comfort-suggestions-for-patients)
 <br><br>
+<br><br>
+Jump to [funding options](https://nabarundg.github.io/vaccinerumorcontrol/#funding) and [Project Team](https://nabarundg.github.io/vaccinerumorcontrol/team)
+<br><br>
+
 
 # User Generated Data
 Anonymized user-generated text can be mined for shifts in public sentiment and provide specific real-time targets for countering misinformation. Private text exchanges with a bot may provide different insight than other data sources. Unlike search engine trends and social media monitoring, we will be able to query the time between vaccination and onset of symptoms. Time-to-onset is the [single most important](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447519/) element to determining if a side effect was caused by the vaccine. But, the real goal of this project is to provide an avenue for meaningful information (pharmacovigilance is not the primary intent). Data privacy and retention policies will favor public trust over research interests.
