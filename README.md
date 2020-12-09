@@ -124,7 +124,11 @@ A [recent headline in *Science*](https://science.sciencemag.org/content/370/6520
 <br>
 
 > This summer, computational biologist Luke Hutchison volunteered for a trial of Moderna's COVID-19 vaccine. But after the second injection, his arm swelled up to the size of a “goose egg,” Hutchison says. He can't be sure he got the vaccine and not a placebo, but within a few hours, Hutchison, who was healthy and 43, was beset by bone and muscle aches and a 38.9°C fever. “I started shaking. I had cold and hot rushes,” he says. “I was sitting by the phone all night long thinking: ‘Should I call 911?’” Hutchison's symptoms resolved after 12 hours. But, he says, “Nobody prepared me for the severity of this.”<br>
-> [*Science* - Nov 27, 2020](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ)
+> [*Science* - Nov 27, 2020](https://science.sciencemag.org/content/370/6520/1022?fbclid=IwAR1glSi-0GalPGx1ASJDzDPfyu91Wk-ODA_NbIYGlz2xrpjCRtceIdrcsPQ)<br>
+<br>
+
+> Despite the extensive information I had on the research process and vaccine, on a personal level I did not get the message that I should anticipate a reactogenic response. I was scared when I saw that I had a fever, and my gut reaction after months of scrutinizing myself for all the possible COVID-19 symptoms was: Do I have COVID-19? I texted a few friends about my experience, and their response was the same: “Wait, does this mean you have COVID-19? Are you contagious?” I assured them I did not and was not, but every physician and nurse in the US needs to be prepared to have a conversation about adverse effects with patients. I can already see the wrong message about the COVID-19 vaccine going viral.<br>
+> [*JAMA Internal Medicine* - December 7, 2020](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2773790)
 
 <br><br>
 
